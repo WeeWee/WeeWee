@@ -1,16 +1,17 @@
-## Hi there 👋
-[![Adam Kindbergs's GitHub stats](https://github-readme-stats.vercel.app/api?username=WeeWee&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**WeeWee/WeeWee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.adamkindberg.com/">
+  <img height=200 align="center"  src="https://github-readme-stats.vercel.app/api?username=WeeWee&theme=dark&show_icons=true"/>
+</a>
+<a href="https://www.adamkindberg.com/">
+  <img height=200 align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=WeeWee&theme=dark"/>
+</a>
+<a href="https://www.adamkindberg.com/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeeWee&theme=dark"/>
+</a>
 
-Here are some ideas to get you started:
+<a href="https://github.com/WeeWee/social-networking-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=WeeWee&repo=social-networking-app&theme=dark"/>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/WeeWee/portfoliov2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=WeeWee&repo=portfoliov2&theme=dark"/>
+</a>
