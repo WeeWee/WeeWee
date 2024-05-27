@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Adam Kindbergs's GitHub stats](https://github-readme-stats.vercel.app/api?username=WeeWee&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Adam Kindbergs's GitHub stats](https://github-readme-stats.vercel.app/api?username=WeeWee&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **WeeWee/WeeWee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
